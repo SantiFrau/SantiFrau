@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, soy Santiago Frau</h1>
 <h3 align="center">Desarrollador frontend.</h3>
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://santifrau.github.io/Portafolios/](https://santifrau.github.io/Portafolios/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://santifrau.github.io/Portfolio/](https://santifrau.github.io/Portafolios/)
 
 - 📫 Contacto **santiagofrau3@gmail.com**
 
