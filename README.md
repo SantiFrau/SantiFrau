@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy un desarrollador web con formación autodidacta y muchas ganas de seguir creciendo en el mundo tech. Me encanta aprender nuevas tecnologías, crear proyectos que funcionen bien y se vean mejor, y colaborar con otros desarrolladores.
+Soy un desarrollador web con formación autodidacta y muchas ganas de seguir creciendo en el mundo tech. Me encanta aprender nuevas tecnologías, crear proyectos que funcionen bien y se vean mejor.
 
 Actualmente me enfoco en el desarrollo **Full Stack**, combinando lógica, diseño y buenas prácticas de programación.
 
